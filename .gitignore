@@ -7,3 +7,5 @@
 /.pki
 /.viminfo
 *logging*
+*testfile
+*timelog.txt*

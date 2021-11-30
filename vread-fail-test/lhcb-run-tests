@@ -1,0 +1,12 @@
+#!/bin/bash
+
+g++ -DMAIN -I ~ijj87/SRC/xrootd-ceph/src/XrdCeph/ -I /usr/include/xrootd vectorread.cc lhcbtestvectorread.cc -L ~ijj87/CEPH-BUILD/xrootd-ceph/src/ -lXrdCephPosix -pthread -o testing
+g++ -DMAIN timeout.cc -o timeout
+
+counter=1
+while [ $counter -le 10 ]
+do
+    echo $counter
+    timeout 10000 ./testing || ./timeout
+    ((counter++))
+done
