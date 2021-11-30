@@ -6,5 +6,4 @@
 /.config
 /.pki
 /.viminfo
-/test-xrd-ceph
-/vread-fail-test
+logging
