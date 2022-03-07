@@ -1,0 +1,17 @@
+#!/bin/bash
+
+readsize=10000
+gap=100000
+#numreads=100
+lock="lock"
+
+filename="timings-direct-noreload-${lock}-readssize${readsize}-readgap${gap}.txt"
+
+for numreads in {100,200,400,800,1600,3200,6400,12800} ; 
+#for readsize in {10,100,1000,10000,100000,1000000,10000000} ;
+#for gap in {10,100,1000,10000,100000,1000000,10000000,100000000} ;
+do
+  echo ${numreads}
+  ./time ${filename} ${numreads} ${readsize} ${gap}
+  #echo -n "${numreads}	"; ( time -p ${command} )  2>&1  |  awk '/real/ {print $2}' 
+done

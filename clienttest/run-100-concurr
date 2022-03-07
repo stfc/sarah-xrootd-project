@@ -1,0 +1,9 @@
+#!/bin/bash
+
+./time "startend-100concurr-plain-nolock.txt" "Start"
+
+./run-20-concurr & (sleep 20 && ./run-20-concurr) & (sleep 40 && ./run-20-concurr) & (sleep 60 && ./run-20-concurr) & (sleep 80 && ./run-20-concurr)
+
+./time "startend-100concurr-plain-nolock.txt" "End"
+
+echo "Complete"

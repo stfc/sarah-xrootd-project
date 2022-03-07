@@ -1,0 +1,19 @@
+#!/bin/bash
+
+readsize=10000
+gap=100000
+#numreads=100
+lock="nolock"
+
+filename="timings-nopsscacheline-${lock}-readsize${readsize}-readgap${gap}.txt"
+fileurl="root://ceph-dev-gw3.gridpp.rl.ac.uk/dteam:test/ian_johnson/file-10GiB-nolock"
+
+for numreads in {100,200,400,800,1600,3200,6400,12800} ; 
+#for readsize in {10,100,1000,10000,100000,1000000,10000000} ;
+#for gap in {10,100,1000,10000,100000,1000000,10000000,100000000} ;
+#for numreads in {100,200};
+do
+  echo ${numreads}
+  ./vread ${fileurl} ${readsize} ${gap} ${numreads} ${filename}
+  #echo -n "${numreads}	"; ( time -p ${command} )  2>&1  |  awk '/real/ {print $2}' 
+done
