@@ -9,7 +9,7 @@
 
 /*
 To compile:
-gcc recordtime.cpp -o time
+g++ recordtime.cpp -o time
 
 */
 

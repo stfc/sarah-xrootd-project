@@ -1,0 +1,1314 @@
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 11:51:12 2022
+Completed vector read
+Elapsed time: 7.32499s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 11:51:20 2022
+Completed vector read
+Elapsed time: 12.6843s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 11:51:32 2022
+Completed vector read
+Elapsed time: 27.0879s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 11:52:00 2022
+Completed vector read
+Elapsed time: 58.1927s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 11:52:58 2022
+Completed vector read
+Elapsed time: 111.902s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 11:54:50 2022
+Completed vector read
+Elapsed time: 224.35s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 11:58:34 2022
+Completed vector read
+Elapsed time: 436.446s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:05:51 2022
+Completed vector read
+Elapsed time: 698.363s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:23:38 2022
+Completed vector read
+Elapsed time: 0.20025s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:23:38 2022
+Completed vector read
+Elapsed time: 0.434062s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:23:39 2022
+Completed vector read
+Elapsed time: 0.985208s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:23:40 2022
+Completed vector read
+Elapsed time: 1.42134s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:23:42 2022
+Completed vector read
+Elapsed time: 2.84094s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:23:45 2022
+Completed vector read
+Elapsed time: 5.65195s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:23:50 2022
+Completed vector read
+Elapsed time: 11.2513s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:24:02 2022
+Completed vector read
+Elapsed time: 21.8311s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:35:15 2022
+Completed vector read
+Elapsed time: 0.223728s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:35:15 2022
+Completed vector read
+Elapsed time: 0.383606s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:35:15 2022
+Completed vector read
+Elapsed time: 0.712939s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:35:16 2022
+Completed vector read
+Elapsed time: 1.42361s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:35:18 2022
+Completed vector read
+Elapsed time: 2.79426s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:35:21 2022
+Completed vector read
+Elapsed time: 5.55901s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:35:27 2022
+Completed vector read
+Elapsed time: 10.9847s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 12:35:38 2022
+Completed vector read
+Elapsed time: 21.4254s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:38:33 2022
+Completed vector read
+Elapsed time: 0.202791s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:38:33 2022
+Completed vector read
+Elapsed time: 0.411304s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:38:33 2022
+Completed vector read
+Elapsed time: 0.767696s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:38:34 2022
+Completed vector read
+Elapsed time: 1.32776s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:38:36 2022
+Completed vector read
+Elapsed time: 2.78064s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:38:39 2022
+Completed vector read
+Elapsed time: 5.40608s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:38:44 2022
+Completed vector read
+Elapsed time: 10.9974s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:38:56 2022
+Completed vector read
+Elapsed time: 21.3568s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:41:33 2022
+Completed vector read
+Elapsed time: 5.02186s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:41:38 2022
+Completed vector read
+Elapsed time: 9.41371s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:41:48 2022
+Completed vector read
+Elapsed time: 20.2797s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:42:08 2022
+Completed vector read
+Elapsed time: 39.8932s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:42:48 2022
+Completed vector read
+Elapsed time: 84.8504s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:44:13 2022
+Completed vector read
+Elapsed time: 178.302s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:47:12 2022
+Completed vector read
+Elapsed time: 335.656s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 13:52:47 2022
+Completed vector read
+Elapsed time: 690.629s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:18:37 2022
+Completed vector read
+Elapsed time: 5.86316s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:18:43 2022
+Completed vector read
+Elapsed time: 13.3544s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:18:56 2022
+Completed vector read
+Elapsed time: 20.5051s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:19:17 2022
+Completed vector read
+Elapsed time: 43.2218s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:20:00 2022
+Completed vector read
+Elapsed time: 88.1174s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:21:29 2022
+Completed vector read
+Elapsed time: 168.457s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:24:17 2022
+Completed vector read
+Elapsed time: 352.06s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:30:09 2022
+Completed vector read
+Elapsed time: 702.947s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:47:33 2022
+Completed vector read
+Elapsed time: 4.32872s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:47:37 2022
+Completed vector read
+Elapsed time: 10.0181s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:47:47 2022
+Completed vector read
+Elapsed time: 20.6641s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:48:08 2022
+Completed vector read
+Elapsed time: 42.9865s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:48:51 2022
+Completed vector read
+Elapsed time: 84.6834s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:50:16 2022
+Completed vector read
+Elapsed time: 176.28s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:53:12 2022
+Completed vector read
+Elapsed time: 366.616s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Thu Jan 20 17:59:19 2022
+Completed vector read
+Elapsed time: 707.456s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:44:57 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:44:57 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:44:57 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:44:57 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:44:57 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:44:58 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:44:58 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:44:58 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:45:33 2022
+Completed vector read
+Elapsed time: 0.212412s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:45:33 2022
+Completed vector read
+Elapsed time: 0.357506s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:45:34 2022
+Completed vector read
+Elapsed time: 0.721613s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:45:35 2022
+Completed vector read
+Elapsed time: 1.40739s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:45:36 2022
+Completed vector read
+Elapsed time: 2.69449s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:45:39 2022
+Completed vector read
+Elapsed time: 5.99313s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:45:45 2022
+Completed vector read
+Elapsed time: 10.9524s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:45:56 2022
+Completed vector read
+Elapsed time: 22.1553s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:47:49 2022
+Completed vector read
+Elapsed time: 0.18479s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:47:50 2022
+Completed vector read
+Elapsed time: 0.361743s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:47:50 2022
+Completed vector read
+Elapsed time: 0.697153s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:47:51 2022
+Completed vector read
+Elapsed time: 1.4202s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:47:53 2022
+Completed vector read
+Elapsed time: 2.8477s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:47:56 2022
+Completed vector read
+Elapsed time: 5.71976s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:48:01 2022
+Completed vector read
+Elapsed time: 10.7924s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 09:48:12 2022
+Completed vector read
+Elapsed time: 21.8551s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 11:11:54 2022
+Completed vector read
+Elapsed time: 0.87626s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 11:11:55 2022
+Completed vector read
+Elapsed time: 0.203082s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 11:11:55 2022
+Completed vector read
+Elapsed time: 0.181221s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 11:11:56 2022
+Completed vector read
+Elapsed time: 0.2025s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 11:11:56 2022
+Completed vector read
+Elapsed time: 0.230383s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 11:11:56 2022
+Completed vector read
+Elapsed time: 0.640439s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 11:11:57 2022
+Completed vector read
+Elapsed time: 3.216s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:49 2022
+Completed vector read
+Elapsed time: 0.21573s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:49 2022
+Completed vector read
+Elapsed time: 0.21279s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:49 2022
+Completed vector read
+Elapsed time: 0.215395s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:50 2022
+Completed vector read
+Elapsed time: 0.21753s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:50 2022
+Completed vector read
+Elapsed time: 0.245271s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:50 2022
+Completed vector read
+Elapsed time: 0.581219s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:51 2022
+Completed vector read
+Elapsed time: 1.86004s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:58 2022
+Completed vector read
+Elapsed time: 0.189572s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:01:58 2022
+Completed vector read
+Elapsed time: 1.17565s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:00 2022
+Completed vector read
+Elapsed time: 0.186295s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:00 2022
+Completed vector read
+Elapsed time: 0.438477s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:01 2022
+Completed vector read
+Elapsed time: 0.215918s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:01 2022
+Completed vector read
+Elapsed time: 0.377252s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:01 2022
+Completed vector read
+Elapsed time: 1.7747s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:32 2022
+Completed vector read
+Elapsed time: 3.93448s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:36 2022
+Completed vector read
+Elapsed time: 5.03789s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:41 2022
+Completed vector read
+Elapsed time: 4.19434s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:46 2022
+Completed vector read
+Elapsed time: 6.31697s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:02:52 2022
+Completed vector read
+Elapsed time: 7.98907s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:00 2022
+Completed vector read
+Elapsed time: 6.12213s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:06 2022
+Completed vector read
+Elapsed time: 5.33811s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:22 2022
+Completed vector read
+Elapsed time: 4.18216s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:26 2022
+Completed vector read
+Elapsed time: 5.05571s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:31 2022
+Completed vector read
+Elapsed time: 4.11959s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:35 2022
+Completed vector read
+Elapsed time: 5.30323s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:41 2022
+Completed vector read
+Elapsed time: 5.12985s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:46 2022
+Completed vector read
+Elapsed time: 6.16393s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:03:52 2022
+Completed vector read
+Elapsed time: 5.77019s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:17:29 2022
+Completed vector read
+Elapsed time: 6.15528s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:17:35 2022
+Completed vector read
+Elapsed time: 5.13471s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:17:40 2022
+Completed vector read
+Elapsed time: 4.03453s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:17:45 2022
+Completed vector read
+Elapsed time: 4.22919s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:17:49 2022
+Completed vector read
+Elapsed time: 5.13459s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:17:54 2022
+Completed vector read
+Elapsed time: 4.20408s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:17:58 2022
+Completed vector read
+Elapsed time: 7.94935s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:18:06 2022
+Completed vector read
+Elapsed time: 4.92656s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:19:28 2022
+Completed vector read
+Elapsed time: 4.08022s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:19:32 2022
+Completed vector read
+Elapsed time: 5.12751s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:19:37 2022
+Completed vector read
+Elapsed time: 4.10142s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:19:42 2022
+Completed vector read
+Elapsed time: 6.58141s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:19:48 2022
+Completed vector read
+Elapsed time: 7.87815s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:19:56 2022
+Completed vector read
+Elapsed time: 3.9202s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:20:00 2022
+Completed vector read
+Elapsed time: 4.84172s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:20:05 2022
+Completed vector read
+Elapsed time: 5.09509s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:04 2022
+Completed vector read
+Elapsed time: 0.187363s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:05 2022
+Completed vector read
+Elapsed time: 0.22608s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:05 2022
+Completed vector read
+Elapsed time: 0.214484s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:05 2022
+Completed vector read
+Elapsed time: 0.295711s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:06 2022
+Completed vector read
+Elapsed time: 0.209043s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:06 2022
+Completed vector read
+Elapsed time: 0.218994s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:06 2022
+Completed vector read
+Elapsed time: 0.206942s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:07 2022
+Completed vector read
+Elapsed time: 0.196972s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:42 2022
+Completed vector read
+Elapsed time: 0.185805s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:42 2022
+Completed vector read
+Elapsed time: 0.196453s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:42 2022
+Completed vector read
+Elapsed time: 0.216328s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:43 2022
+Completed vector read
+Elapsed time: 0.18884s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:43 2022
+Completed vector read
+Elapsed time: 0.216388s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:43 2022
+Completed vector read
+Elapsed time: 0.219506s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:44 2022
+Completed vector read
+Elapsed time: 0.206343s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Fri Jan 21 15:21:44 2022
+Completed vector read
+Elapsed time: 0.189425s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:18 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:18 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:19 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:19 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:19 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:19 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:19 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:19 2022
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:53 2022
+Completed vector read
+Elapsed time: 0.512989s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:54 2022
+Completed vector read
+Elapsed time: 0.700738s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:55 2022
+Completed vector read
+Elapsed time: 1.46826s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:56 2022
+Completed vector read
+Elapsed time: 2.3332s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:09:59 2022
+Completed vector read
+Elapsed time: 3.40254s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:10:03 2022
+Completed vector read
+Elapsed time: 5.83896s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:10:09 2022
+Completed vector read
+Elapsed time: 11.0632s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:10:20 2022
+Completed vector read
+Elapsed time: 22.5052s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:10:57 2022
+Completed vector read
+Elapsed time: 0.187047s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:10:57 2022
+Completed vector read
+Elapsed time: 0.347739s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:10:58 2022
+Completed vector read
+Elapsed time: 0.70565s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:10:59 2022
+Completed vector read
+Elapsed time: 1.41662s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:00 2022
+Completed vector read
+Elapsed time: 2.71303s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:03 2022
+Completed vector read
+Elapsed time: 5.6201s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:09 2022
+Completed vector read
+Elapsed time: 11.1487s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:20 2022
+Completed vector read
+Elapsed time: 22.1481s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:53 2022
+Completed vector read
+Elapsed time: 0.183489s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:54 2022
+Completed vector read
+Elapsed time: 0.341238s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:54 2022
+Completed vector read
+Elapsed time: 0.760539s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:55 2022
+Completed vector read
+Elapsed time: 1.40493s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:11:57 2022
+Completed vector read
+Elapsed time: 3.18564s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:00 2022
+Completed vector read
+Elapsed time: 5.59264s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:06 2022
+Completed vector read
+Elapsed time: 11.2121s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:17 2022
+Completed vector read
+Elapsed time: 22.56s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:42 2022
+Completed vector read
+Elapsed time: 0.219485s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:42 2022
+Completed vector read
+Elapsed time: 1.18004s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:43 2022
+Completed vector read
+Elapsed time: 0.722306s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:44 2022
+Completed vector read
+Elapsed time: 1.57297s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:46 2022
+Completed vector read
+Elapsed time: 2.88603s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:49 2022
+Completed vector read
+Elapsed time: 5.54724s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:12:55 2022
+Completed vector read
+Elapsed time: 11.2339s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:06 2022
+Completed vector read
+Elapsed time: 22.4027s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:33 2022
+Completed vector read
+Elapsed time: 0.178162s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:34 2022
+Completed vector read
+Elapsed time: 0.33302s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:34 2022
+Completed vector read
+Elapsed time: 0.649983s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:35 2022
+Completed vector read
+Elapsed time: 1.44544s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:36 2022
+Completed vector read
+Elapsed time: 2.72397s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:39 2022
+Completed vector read
+Elapsed time: 5.50633s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:45 2022
+Completed vector read
+Elapsed time: 11.2362s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:13:56 2022
+Completed vector read
+Elapsed time: 22.2484s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:16:04 2022
+Completed vector read
+Elapsed time: 0.198482s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:16:04 2022
+Completed vector read
+Elapsed time: 0.341657s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:16:05 2022
+Completed vector read
+Elapsed time: 0.706628s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:16:06 2022
+Completed vector read
+Elapsed time: 1.41146s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:16:07 2022
+Completed vector read
+Elapsed time: 2.72773s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:16:10 2022
+Completed vector read
+Elapsed time: 5.46868s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:16:16 2022
+Completed vector read
+Elapsed time: 10.7853s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:16:27 2022
+Completed vector read
+Elapsed time: 23.0278s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:17:20 2022
+Completed vector read
+Elapsed time: 4.9082s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:17:25 2022
+Completed vector read
+Elapsed time: 11.0651s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:17:37 2022
+Completed vector read
+Elapsed time: 21.0153s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:17:58 2022
+Completed vector read
+Elapsed time: 42.977s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:18:41 2022
+Completed vector read
+Elapsed time: 88.5357s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:20:09 2022
+Completed vector read
+Elapsed time: 167.548s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:22:57 2022
+Completed vector read
+Elapsed time: 337.158s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:28:34 2022
+Completed vector read
+Elapsed time: 682.94s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:41:50 2022
+Completed vector read
+Elapsed time: 4.92691s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:41:55 2022
+Completed vector read
+Elapsed time: 9.13061s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:42:04 2022
+Completed vector read
+Elapsed time: 19.7356s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:42:24 2022
+Completed vector read
+Elapsed time: 40.8096s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:43:05 2022
+Completed vector read
+Elapsed time: 94.1383s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:44:39 2022
+Completed vector read
+Elapsed time: 184.431s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:47:43 2022
+Completed vector read
+Elapsed time: 360.596s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 13:53:44 2022
+Completed vector read
+Elapsed time: 756.391s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 14:06:30 2022
+Completed vector read
+Elapsed time: 4.97523s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 14:06:35 2022
+Completed vector read
+Elapsed time: 10.5326s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 14:06:45 2022
+Completed vector read
+Elapsed time: 20.7052s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 14:07:06 2022
+Completed vector read
+Elapsed time: 41.2313s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 14:07:47 2022
+Completed vector read
+Elapsed time: 94.7197s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 14:09:22 2022
+Completed vector read
+Elapsed time: 187.904s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 14:12:30 2022
+Completed vector read
+Elapsed time: 373.174s
+
+Opening file for vector read.
+File opened successfully.
+Beginning vector read  at Tue Feb  8 14:18:44 2022
+Completed vector read
+Elapsed time: 748.754s
+
