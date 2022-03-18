@@ -6,8 +6,4 @@
 /.config
 /.pki
 /.viminfo
-*logging*
 *testfile
-*timelog.txt*
-*timings*txt
-startend*txt
