@@ -4,7 +4,7 @@ readsize=10000
 gap=100000
 lock="nolock"
 
-filename="timings-5concurr-plain-${lock}.txt"
+filename="timings-noconcurr-plain-${lock}.txt"
 fileurl="root://ceph-dev-gw3.gridpp.rl.ac.uk/dteam:test/ian_johnson/file-10GiB-nolock"
 
 for numreads in {100,200,400,800,1600,3200,6400,12800} ; 

@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#./time "startend-20concurr-plain-nolock.txt" "Start"
+#./time "startend-20concurr-nolock.txt" "Start"
 
-./concurrent-timings & (sleep 2 && ./concurrent-timings) & (sleep 4 && ./concurrent-timings) & (sleep 6 && ./concurrent-timings) & (sleep 8 && ./concurrent-timings) & (sleep 10 && ./concurrent-timings) & (sleep 12 && ./concurrent-timings) & (sleep 14 && ./concurrent-timings) & (sleep 16 && ./concurrent-timings) & (sleep 18 && ./concurrent-timings) & (sleep 20 && ./concurrent-timings) & (sleep 22 && ./concurrent-timings) & (sleep 24 && ./concurrent-timings) & (sleep 26 && ./concurrent-timings) & (sleep 28 && ./concurrent-timings) & (sleep 30 && ./concurrent-timings) & (sleep 32 && ./concurrent-timings) & (sleep 34 && ./concurrent-timings) & (sleep 36 && ./concurrent-timings) & (sleep 38 && ./concurrent-timings)
+./concurrent-timings & (sleep 0.5 && ./concurrent-timings) & (sleep 1 && ./concurrent-timings) & (sleep 1.5 && ./concurrent-timings) & (sleep 2 && ./concurrent-timings) & (sleep 2.5 && ./concurrent-timings) & (sleep 3 && ./concurrent-timings) & (sleep 3.5 && ./concurrent-timings) & (sleep 4 && ./concurrent-timings) & (sleep 4.5 && ./concurrent-timings) & (sleep 5 && ./concurrent-timings) & (sleep 5.5 && ./concurrent-timings) & (sleep 6 && ./concurrent-timings) & (sleep 6.5 && ./concurrent-timings) & (sleep 7 && ./concurrent-timings) & (sleep 7.5 && ./concurrent-timings) & (sleep 8 && ./concurrent-timings) & (sleep 8.5 && ./concurrent-timings) & (sleep 9 && ./concurrent-timings) & (sleep 9.5 && ./concurrent-timings)
 
-#./time "startend-20concurr-plain-nolock.txt" "End"
+#./time "startend-20concurr-nolock.txt" "End"
 
 #echo "Complete"

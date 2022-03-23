@@ -1,9 +1,9 @@
 #!/bin/bash
 
-./time "startend-10concurr-plain-nolock.txt" "start"
+#./time "startend-10concurr-nolock.txt" "start"
 
-./concurrent-timings & (sleep 2 && ./concurrent-timings) & (sleep 4 && ./concurrent-timings) & (sleep 6 && ./concurrent-timings) & (sleep 8 && ./concurrent-timings) & (sleep 10 && ./concurrent-timings) & (sleep 12 && ./concurrent-timings) & (sleep 14 && ./concurrent-timings) & (sleep 16 && ./concurrent-timings) & (sleep 18 && ./concurrent-timings)
+./concurrent-timings & (sleep 0.5 && ./concurrent-timings) & (sleep 1 && ./concurrent-timings) & (sleep 1.5 && ./concurrent-timings) & (sleep 2 && ./concurrent-timings) & (sleep 2.5 && ./concurrent-timings) & (sleep 3 && ./concurrent-timings) & (sleep 3.5 && ./concurrent-timings) & (sleep 4 && ./concurrent-timings) & (sleep 4.5 && ./concurrent-timings)
 
-./time "startend-10concurr-plain-nolock.txt" "end"
+#./time "startend-10concurr-nolock.txt" "end"
 
-echo "Complete"
+#echo "Complete"

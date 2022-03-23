@@ -1,0 +1,9 @@
+#!/bin/bash
+
+./time "startend-noconcurr-plain-nolock.txt" "start"
+
+./concurrent-timings
+
+./time "startend-noconcurr-plain-nolock.txt" "end"
+
+echo "Complete"
